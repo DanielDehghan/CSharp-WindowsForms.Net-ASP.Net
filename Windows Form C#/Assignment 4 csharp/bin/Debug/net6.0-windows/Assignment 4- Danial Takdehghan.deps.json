@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assignment 4- Danial Takdehghan/1.0.0": {
+        "runtime": {
+          "Assignment 4- Danial Takdehghan.dll": {}
+        }
+      },
+      "Class Library/1.0.0": {
+        "runtime": {
+          "Class Library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment 4- Danial Takdehghan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Class Library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
